@@ -2,6 +2,12 @@
 
 Ứng dụng Flutter demo Accelerometer cho môn **Lập trình trên thiết bị di động**. Đọc cảm biến thật trên Android, phát hiện rung/lắc vượt ngưỡng và phát chuông cảnh báo. Đây là bài thực hành cảm biến, không phải hệ thống chống trộm chuyên nghiệp.
 
+## Slide thuyết trình
+
+**[Tải slide PowerPoint — Nhóm 4 con mèo](SLIDE_THUYET_TRINH/Canh_bao_chong_trom_Nhom_4_con_meo.pptx)**
+
+Slide được đặt riêng trong thư mục [SLIDE_THUYET_TRINH](SLIDE_THUYET_TRINH/).
+
 ## Tài liệu
 
 - [Hướng dẫn cài đặt và chạy](docs/CAI_DAT.md)
